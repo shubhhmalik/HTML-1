@@ -1,0 +1,22 @@
+<!DOCTYPE html >
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="CSS-1.css">
+    </head>
+    <body>
+        <header>
+        <ul>
+            <li> <a href="xyz"> home </a> </li>
+            <li> <a href="abc"> about </a></li>
+            <li> <a href="ijk"> contact </a></li>
+        </ul>
+    </header>
+<Nav>
+    <h1> Hi </h1>
+    <h2> Its me </h2>
+    <p> I'm the problem <br> Its me </p>
+</Nav>
+    </body>
+</html>
