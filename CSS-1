@@ -1,0 +1,12 @@
+body{
+    background: url("wp5442797-espresso-wallpapers.jpg");
+    background-repeat: no-repeat;
+    background-position: 0lvh;
+    text-align: center;
+    background-image: -o-linear-gradient("wp5442797-espresso-wallpapers.jpg");
+    -moz-backface-visibility: visible;
+    background-size: cover;
+.NAV{
+    text-decoration: color: white-space: ;;;
+}
+}
